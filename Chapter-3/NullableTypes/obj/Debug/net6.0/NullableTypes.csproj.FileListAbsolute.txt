@@ -1,0 +1,15 @@
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\bin\Debug\net6.0\NullableTypes.exe
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\bin\Debug\net6.0\NullableTypes.deps.json
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\bin\Debug\net6.0\NullableTypes.runtimeconfig.json
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\bin\Debug\net6.0\NullableTypes.dll
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\bin\Debug\net6.0\NullableTypes.pdb
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\NullableTypes.csproj.AssemblyReference.cache
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\NullableTypes.AssemblyInfo.cs
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\NullableTypes.dll
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\refint\NullableTypes.dll
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\NullableTypes.pdb
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\NullableTypes.genruntimeconfig.cache
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\NullableTypes\obj\Debug\net6.0\ref\NullableTypes.dll
