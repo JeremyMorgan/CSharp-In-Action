@@ -1,0 +1,15 @@
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\commontypesystem.csproj.AssemblyReference.cache
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\commontypesystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\commontypesystem.AssemblyInfoInputs.cache
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\commontypesystem.AssemblyInfo.cs
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\commontypesystem.csproj.CoreCompileInputs.cache
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\bin\Debug\net6.0\commontypesystem.exe
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\bin\Debug\net6.0\commontypesystem.deps.json
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\bin\Debug\net6.0\commontypesystem.runtimeconfig.json
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\bin\Debug\net6.0\commontypesystem.dll
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\bin\Debug\net6.0\commontypesystem.pdb
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\commontypesystem.dll
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\refint\commontypesystem.dll
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\commontypesystem.pdb
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\commontypesystem.genruntimeconfig.cache
+C:\Users\jerem\repos\CSharp-In-Action\Chapter-3\commontypesystem\obj\Debug\net6.0\ref\commontypesystem.dll

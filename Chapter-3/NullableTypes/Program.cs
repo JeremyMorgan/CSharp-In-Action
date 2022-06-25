@@ -10,5 +10,3 @@ if (temperature.HasValue){
 }else {
     Console.WriteLine("There is no reading. Perhaps a sensor failed?");
 }
-
-// Regardless of the status of temperature we won't get an exception error. 
