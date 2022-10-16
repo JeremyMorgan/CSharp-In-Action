@@ -41,3 +41,12 @@ ourArray[2] = new int[] { 3, 6, 9, 12, 15, 18, 21, 24 };
 ourArray[3] = new int[] { 4, 8, 12, 16, 20 };
 
 
+// jagged array example
+
+string[] names = { "John", "Paul", "George", "Ringo" };
+
+string[][] bands =
+{
+    new string[] { "John", "Paul", "George", "Ringo" },
+    new string[] { "Peter", "Paul", "Mary"}
+};
