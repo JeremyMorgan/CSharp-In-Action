@@ -15,16 +15,11 @@
 
 public class Customer {
 
-    public string FirstName { get; set; } = default!;
-    public string LastName { get; set; } = default!;
+    public string FirstName { get; init; } 
+    public string LastName { get; init; }
 
     public Customer() {
         Console.WriteLine("Customer object created");
-    }
-
-    // destructor 
-    ~Customer() {
-        Console.WriteLine("Customer object destroyed");
     }
 
     // conventional constructor
@@ -32,9 +27,32 @@ public class Customer {
     {
         FirstName = firstName;
         LastName = lastName;
-    }  
-
+    } 
 }
+
+
+// public class Customer {
+
+//     public string FirstName { get; set; } = default!;
+//     public string LastName { get; set; } = default!;
+
+//     public Customer() {
+//         Console.WriteLine("Customer object created");
+//     }
+
+//     // destructor 
+//     ~Customer() {
+//         Console.WriteLine("Customer object destroyed");
+//     }
+
+//     // conventional constructor
+//     public Customer(String firstName, string lastName)
+//     {
+//         FirstName = firstName;
+//         LastName = lastName;
+//     }  
+
+// }
 
 
 // define the fields on your own
